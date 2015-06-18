@@ -1,0 +1,4 @@
+function xi  = flocalizacao(n,coef);
+
+
+
